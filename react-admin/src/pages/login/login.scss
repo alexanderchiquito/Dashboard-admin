@@ -165,29 +165,10 @@ body {
         justify-content: center;
 
         .img-container {
-          // .sombra {
-          //   position: relative;
-          //   top: 0;
-          //   left: 0;
-          //   height: 1.3em;
-          //   width: 1.3em;
-          //   background: black;
-          //   border-radius: 50px;
-          //   transition: all 0.7s;
-          //   --spread: 20px;
-          //   box-shadow: -10px -10px var(--spread) 0px #32f1a8,
-          //   10px -10px var(--spread) 0px #e1306c,
-          //   10px 0 var(--spread) 0px #fd1d1d,
-          //   10px 10px var(--spread) 0px #f77737,
-          //   0 10px var(--spread) 0px #fcaf45,
-          //   -10px 10px var(--spread) 0px #ffdc80,
-          //     0 -10px var(--spread) 0px #833ab4
-          // }
-
-        }
-        img {
-          width: 400px;
-          --spread: 20px;
+          img {
+            width: 400px;
+            --spread: 20px;
+          }
         }
       }
     }
